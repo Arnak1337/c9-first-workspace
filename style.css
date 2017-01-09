@@ -1,13 +1,20 @@
 /* Use the comments below to complete activities 1 through 6. */
 
 /* 1. Use the space below to change the background color of the page using the body tag */
-
-
+* { 
+	background-color: #6700c7;
+}
 
 
 
 /* 2a. Change the size of your image to 200px height and width*/
+#image1 {
+	height: 200px;
+	width: 200px;
+}
+}
 /* 2b. Give image1 a border */
+border: 20px,20px, black, 
 #image1 {
     width: 50px;
     height: 50px;
